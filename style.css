@@ -293,6 +293,9 @@ footer {
     background-color: #fff;
     width: 100px;
   }
+  header {
+    height: auto;
+}
 }
 
 @media (max-width: 386px) {
